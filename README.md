@@ -1,17 +1,20 @@
+<p align="center" ><img height="355" width="3555" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="mandalarpan99" /></p>
 <h1 align="center">Hi 👋, I'm Arpan Mandal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandalarpan99&label=Profile%20views&color=0e75b6&style=flat" alt="mandalarpan99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandalarpan99" alt="mandalarpan99" /></a> </p>
+<h3 align="center">A passionate full-stack developer from India. </h3>
 
 - 🔭 I’m currently working on **MERN project**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **react**
+- 👨‍💻 All of my projects are available at [mandalarpan99](mandalarpan99)
+
+- 💬 Ask me about **new technologies**
 
 - 📫 How to reach me **mandalarpan2014@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1uOmI8-39mWd5En1ZTbn5jPWpcSW6ec4o/view?usp=sharing">Arpan Mandal</p>
+
+- ⚡ Fun fact **I think, I am very productive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
