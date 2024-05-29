@@ -1,4 +1,4 @@
-<p align="center" ><img height="355" width="3555" src="https://drive.google.com/file/d/1TiIIN6NRLH7KERKHQ9x6ydGx3GQ_yESE/view?usp=drive_link" alt="mandalarpan99" /></p>
+<p align="center" ><img height="355" width="3555" src="https://drive.google.com/file/d/1TiIIN6NRLH7KERKHQ9x6ydGx3GQ_yESE/view?usp=sharing" alt="mandalarpan99" /></p>
 <h1 align="center">Hi 👋, I'm Arpan Mandal</h1>
 <h3 align="center">A passionate full-stack developer from India. </h3>
 
